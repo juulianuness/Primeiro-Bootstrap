@@ -29,7 +29,7 @@ O objetivo foi:
  Autor
 
 Feito por **Julia Nunes**  
-[LinkedIn](https://www.linkedin.com/in/juulianuness)  
+[LinkedIn](www.linkedin.com/in/julia-vieira-nuness)  
 [Portfólio](https://portifoliojulianunes.netlify.app/)
 
 ---
